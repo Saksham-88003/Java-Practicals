@@ -1,0 +1,4 @@
+Set values in order (real, imaginary) : 1 2
+Set values in order (real, imaginary) : 3 4
+The sum is : 4 + 6i
+The product is : -5 + 10i
